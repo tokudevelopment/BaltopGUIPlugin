@@ -1,0 +1,4 @@
+name: BaltopGUIPlugin
+version: '1.0-SNAPSHOT'
+main: org.BaltopGUIPlugin.baltopGUIPlugin.BaltopGUIPlugin
+api-version: '1.21'
